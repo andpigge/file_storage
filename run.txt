@@ -1,0 +1,5 @@
+uvicorn app:app --reload
+
+# Run tests
+$ cd test/
+$ pytest

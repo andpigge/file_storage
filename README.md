@@ -1,2 +1,3 @@
-# FastAPI File Storage Service
+# File Storage FastAPI + SQLAlchemy
 
+[x] Tests
