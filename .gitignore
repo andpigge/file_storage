@@ -133,5 +133,5 @@ dmypy.json
 
 ### My
 *.db
-upload_files/*
+!upload_files/*
 ### END My
