@@ -7,7 +7,7 @@ def test_root():
 
 
 def test_root_with_params():
-    req = requests.get('http://127.0.0.1:8000/api/get?id=1&id=2')
+    req = requests.get('http://127.0.0.1:8000/api/get?id=2&id=4')
     assert req.status_code == 200
 
 
